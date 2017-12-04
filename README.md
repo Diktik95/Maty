@@ -1,4 +1,4 @@
-# TAMZ_2---Projekt
+# Maty
 Projekt do předmětu Tvorba aplikací pro mobilní zařízení 2
 
 Projekt do TAMZ 2 budou výherní automaty s architekturou klient / server. 
